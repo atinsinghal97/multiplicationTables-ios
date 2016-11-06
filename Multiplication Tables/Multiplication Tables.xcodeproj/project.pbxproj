@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					ADC8E3E51DC9F2BC0031EAC9 = {
 						CreatedOnToolsVersion = 8.1;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
